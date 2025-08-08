@@ -15,11 +15,6 @@ ExpenseTracker Pro is a beautiful, production-ready personal finance management 
 - **Responsive Design:** Fully responsive and mobile-friendly UI.
 - **Modern UI:** Built with Tailwind CSS and Lucide icons for a polished look.
 
-## Screenshots
-
-![Dashboard Screenshot](https://user-images.githubusercontent.com/hirak729/expense-tracker-dashboard.png)
-![Analytics Screenshot](https://user-images.githubusercontent.com/hirak729/expense-tracker-analytics.png)
-
 ## Getting Started
 
 ### Prerequisites
